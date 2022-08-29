@@ -9,3 +9,7 @@
 ## History
 
 1.0 Release
+
+## Licence
+
+> https://marketplace.yoyogames.com/eula
